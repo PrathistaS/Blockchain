@@ -1,0 +1,14 @@
+{
+  "name": "Prathista",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Prathista Shetty <Prathista1995@gmail.com>",
+  "main": "distribute.js",
+  "scripts": {
+    "start": "node distribute.js"
+  },
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.7.0"
+  }
+}
